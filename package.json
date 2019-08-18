@@ -119,8 +119,4 @@
   },
   "types": "./typings/index.d.ts",
   "version": "11.1.0"
-},
-"scripts": {
-"start": "node server.js"
-}
 }
